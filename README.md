@@ -1,7 +1,7 @@
 # A.I-Voice-Assistant
 
 Constructed an AI voice assistant using Python and relevant libraries, delivering seamless voice interactions and enhancing user experience with efficiency. <br>
-###It has some features like <br>
+### It has some features like <br>
  Password authentication to access the assistant.
 • Interaction loop that continuously listens to user commands until specified termination commands ("go to sleep" or "turn off") are given.
 • Various conditional statements based on user commands:
