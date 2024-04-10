@@ -14,5 +14,5 @@ Constructed an AI voice assistant using Python and relevant libraries, deliverin
 • Getting the current temperature.<br>
 • Checking the current time.<br>
 • Scheduling your day.<br>
-• Checking internet speed<br>.
+• Checking internet speed.<br>
 • Handling system shutdown commands etc.
